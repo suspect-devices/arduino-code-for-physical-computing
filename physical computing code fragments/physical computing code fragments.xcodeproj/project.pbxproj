@@ -9,12 +9,14 @@
 /* Begin PBXFileReference section */
 		F61200C016BDDA77000C482B /* p310midi-no-library.ino */ = {isa = PBXFileReference; explicitFileType = sourcecode.c; fileEncoding = 4; path = "p310midi-no-library.ino"; sourceTree = "<group>"; };
 		F61200C116BDDC72000C482B /* p310midi-gpl3-library.ino */ = {isa = PBXFileReference; explicitFileType = sourcecode.cpp.cpp; fileEncoding = 4; path = "p310midi-gpl3-library.ino"; sourceTree = "<group>"; };
+		F61200C216BDE287000C482B /* p65-86-Chapter5-Programming.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "p65-86-Chapter5-Programming.cpp"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
 		F61200B316BDD9F4000C482B = {
 			isa = PBXGroup;
 			children = (
+				F61200C216BDE287000C482B /* p65-86-Chapter5-Programming.cpp */,
 				F61200C016BDDA77000C482B /* p310midi-no-library.ino */,
 				F61200C116BDDC72000C482B /* p310midi-gpl3-library.ino */,
 			);
